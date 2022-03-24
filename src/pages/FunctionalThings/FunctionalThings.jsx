@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 
 const FunctionalThings = (props) => {
   return (
+    // this is a sweet feature!!
     <>
       <h1>Shahzad's Things</h1>
       <Link to="/">Home</Link>
